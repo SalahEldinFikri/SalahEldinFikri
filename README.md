@@ -16,7 +16,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-808080?style=flat-square&logo=assembly&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Procmon-9B59B6?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-PE%20View-FFA07A?style=flat-square&logoColor=white" />
 </p>
-
+<h1 align="center"> Reports & Analysis </h1>
 
 <h1 align="center"> Find me on the web 🌎 </h1>
 
