@@ -4,7 +4,7 @@
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://miro.medium.com/v2/resize:fit:600/1*c5SC76t7hfQM_g3JsFhFLQ.gif" width="290" align="right">
 * **Self-taught** Malware analyst.
-* Currently **student @Mansoura University**.
+* **Computer Science** Graduate.
 * [Cv](https://drive.google.com/file/d/1rHfMJXaqxn0DEnx7Hh1G2XPoZRLrY0qP/view?usp=drive_link)
 
 
@@ -21,7 +21,7 @@
 ![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
 ![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
-[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
+
 <p align="center">
   <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square&logo=ida-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
