@@ -5,7 +5,7 @@
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://miro.medium.com/v2/resize:fit:600/1*c5SC76t7hfQM_g3JsFhFLQ.gif" width="290" align="right">
 * **Self-taught** Malware analyst.
 * Currently **student @Mansoura University**.
-* [Cv]([https://docs.google.com/document/d/1pI5_j92xguu07NdEwNeHLQbuf6iwOXOozuPajCaaZgY/edit?usp=sharing](https://drive.google.com/file/d/1rHfMJXaqxn0DEnx7Hh1G2XPoZRLrY0qP/view?usp=drive_link))
+* [Cv](https://drive.google.com/file/d/1rHfMJXaqxn0DEnx7Hh1G2XPoZRLrY0qP/view?usp=drive_link)
 
 
 ----
