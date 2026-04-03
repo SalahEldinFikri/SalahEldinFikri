@@ -32,6 +32,15 @@
 </p>
 <h1 align="center"> Reports & Analysis </h1>
 
+- **[Stealc-Worm Analysis](https://github.com/SalahEldinFikri/Stealc-Worm)**  
+Reverse engineered a variant of Stealc famliy, analyzing data exfiltration with self-propagation. Demonstrated the threat actor techniques including credential theft and lateral movement.
+
+- **[Evelyn Stealer Analysis](https://github.com/SalahEldinFikri/Evelyn-Stealer)**  
+Reverse engineered an Evelyn Stealer variant, analyzing multistage execution, data exfiltration, and evasion techniques. Demonstrated threat actor techniques including credential harvesting, process injection, and anti-analysis mechanisms, and developed a YARA rule for detection.
+
+- **[Kalim Backdoor Analysis](https://github.com/SalahEldinFikri/Kalim_Backdoor  )**  
+ Reverse engineered Kalim Backdoor, focusing on remote access, persistence, and command execution capabilities. Demonstrated attacker techniques including backdoor communication, system control, and stealthy persistence mechanisms, and developed a YARA rule for detection.
+
 <h1 align="center"> Find me on the web 🌎 </h1>
 
 <p align="center">
